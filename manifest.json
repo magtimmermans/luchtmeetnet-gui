@@ -1,0 +1,13 @@
+{
+  "domain": "luchtmeetnet",
+  "name": "Luchtmeetnet Sensor",
+  "version": "1.0.0",
+  "documentation": "https://api-docs.luchtmeetnet.nl/",
+  "requirements": ["requests", "geopy"],
+  "dependencies": [],
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "codeowners": ["@jouwgithub"],
+  "config_flow": true,
+   "logo": "images/logo.png"
+}

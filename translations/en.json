@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Select Luchtmeetnet Station",
+        "description": "Default is closest station to your Home Assistant location."
+      }
+    },
+    "error": {
+      "no_station_found": "No station could be found near your location."
+    }
+  }
+}
